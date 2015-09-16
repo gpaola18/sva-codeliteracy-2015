@@ -1,7 +1,7 @@
 
 ### About this Course
 
-- Jeff Gray, [email](jeff@grayfuse.com), [twitter](twitter.com/grayfuse)
+- Jeff Gray, [email](mailto://jeff@grayfuse.com), [twitter](//twitter.com/grayfuse)
 
 ---- 
 
