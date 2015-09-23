@@ -2,3 +2,11 @@
 .reveal p {
 	text-shadow: 2px 2px 25px rgba(40,40,40, 0.75);
 }
+
+.reveal h2 a {
+	color:#00ccFF;
+}
+
+.reveal h3 {
+	text-shadow: 2px 2px 5px rgba(40,40,40, 0.75);
+}
