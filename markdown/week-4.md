@@ -1,8 +1,11 @@
 
 ### The One about Tools
 
-~~~
+---
 
+## Clocks in Action
+
+---
 
 ### This Week
 - Videos' Recap
@@ -26,11 +29,6 @@
 <!-- .slide: data-background="http://www.design-io.com/projects/ConnectedWorlds/18777589989_514443d255_o_1.jpg" -->
 
 ### Design I/O, Connected Worlds
-
-
----
-
-## Clocks in Action
 
 ---
 
