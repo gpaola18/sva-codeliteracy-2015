@@ -94,7 +94,7 @@ Email Codepen URLs to Uijun, and myself.
 - [APIs are the new FTEs](http://techcrunch.com/2015/09/06/apis-are-the-new-ftes/)
 - [Arrays and Objects](https://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1?curriculum_id=506324b3a7dffd00020bf661)
 - [JSON](http://www.json.org)
-- [Learn SQL](https://www.codecademy.com/courses/javascript-beginner-en-NhsaT) (first three lessons)
+- [Learn SQL](https://www.codecademy.com/courses/javascript-beginner-en-NhsaT) (manipulation and queries)
 
 
 
